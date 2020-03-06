@@ -1,5 +1,7 @@
 # git-branching-practice
 
-## How far way is the sun?
-    The sun is 93 million miles away from the earth.
+## Q4 What is a black hole?
+    A black hole has a strong gravitational pull that sucks in everything nearby - even light.
+
     
+
